@@ -1,0 +1,2 @@
+# NUCLEO-F103RB
+Libraries for NUCLEO-F103RB, based on STM32CubeMX and STM32CubeIDE
